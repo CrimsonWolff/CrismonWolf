@@ -2,6 +2,7 @@
 - Here you can find a little about me and my projects, in fact I do some basic things and try to learn as much as I can.
 Something I want say before you browse my projects, some codes here are not mine and other I using to learn more, or even improve a personal project.
 
+- Actually a student of system development on ETEC Deputado Salim Sedeh.
 
 - At the moment I'm learning to use HTML with CSS and Bootsrap, PHP, Json, Javascript, Delphi (Pascal) and SQL.
 I look foward to learning more and becoming more confident with these langs and impoving my skills. I hope to work in this area in the future.
